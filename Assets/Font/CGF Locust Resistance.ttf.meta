@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b3fe298735e657f46a9a6a1231c3fe12
+timeCreated: 1527134081
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CGF Locust Resistance
+  fontNames:
+  - CGF Locust Resistance
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c63c1d934d9766c4d8ac1ef3c35ccae3
+timeCreated: 1521601046
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jumpers 3D Italic
+  fontNames:
+  - Jumpers 3D Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

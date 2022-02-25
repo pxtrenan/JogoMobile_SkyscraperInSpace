@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3314733d8f147aa4bb9d42a0f15786c0
+timeCreated: 1527134080
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NP Naipol All in One
+  fontNames:
+  - NP Naipol All in One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

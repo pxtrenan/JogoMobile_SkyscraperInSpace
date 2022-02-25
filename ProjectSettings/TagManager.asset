@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background1
+    uniqueID: 1111713481
+    locked: 0
+  - name: Background2
+    uniqueID: 1161389111
+    locked: 0
+  - name: Background3
+    uniqueID: 1028096609
+    locked: 0
+  - name: Ponte
+    uniqueID: 4128669465
+    locked: 0
+  - name: Outra Plataforma
+    uniqueID: 2614968943
+    locked: 0
+  - name: Plataforma
+    uniqueID: 4164088925
+    locked: 0
+  - name: Escada
+    uniqueID: 2183702555
+    locked: 0
+  - name: Personagem
+    uniqueID: 153846395
+    locked: 0

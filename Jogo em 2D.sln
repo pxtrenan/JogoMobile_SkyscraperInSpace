@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo em 2D", "Jogo em 2D.csproj", "{C0A86AC6-CBAA-182D-2B8C-1A1076718E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo em 2D.Editor", "Jogo em 2D.Editor.csproj", "{FD9BDEFA-C438-6CE2-85CE-568B5ECDA06F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0A86AC6-CBAA-182D-2B8C-1A1076718E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A86AC6-CBAA-182D-2B8C-1A1076718E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A86AC6-CBAA-182D-2B8C-1A1076718E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A86AC6-CBAA-182D-2B8C-1A1076718E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD9BDEFA-C438-6CE2-85CE-568B5ECDA06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9BDEFA-C438-6CE2-85CE-568B5ECDA06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9BDEFA-C438-6CE2-85CE-568B5ECDA06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9BDEFA-C438-6CE2-85CE-568B5ECDA06F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
